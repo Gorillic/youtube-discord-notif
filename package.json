@@ -1,0 +1,10 @@
+{
+  "name": "youtube-discord-notif",
+  "version": "1.0.0",
+  "description": "Simple YouTube -> Discord notifier",
+  "main": "check.js",
+  "type": "commonjs",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
